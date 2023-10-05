@@ -23,6 +23,13 @@ Loss Function : BCE , IOU , Die Loss
 
 <hr>
 
+## Binary Segmentation Mask Build.
+1. Navigate to vgg anotator app to make segmentation.  https://www.robots.ox.ac.uk/~vgg/software/via/
+2. Use the Coco format / CSv file to make a binary mask using the polygon dimentions.
+
+
+<hr>
+
 ## Task 2: Dedect Movement
 
 ### Yolov8-Deepsort
