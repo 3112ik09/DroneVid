@@ -6,8 +6,8 @@
 * Weights : https://drive.google.com/open?id=1Wv3r3dCYNBwJdKl_WPEfrEOt-XGaROKu
 
 ### U2Net
+https://github.com/xuebinqin/U-2-Net
 <pre>
-* https://github.com/xuebinqin/U-2-Net
 Work : Trained U2Net on Lane Detection for Carla Driving Simulator
 Trained models with different loss function , optimizer , batchsize ....etc
 Loss Function : BCE , IOU , Die Loss
