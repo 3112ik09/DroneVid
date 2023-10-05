@@ -25,3 +25,13 @@ Loss Function : BCE , IOU , Die Loss
 
 ## Task 2: Dedect Movement
 
+### Yolov8-Deepsort
+* https://github.com/ultralytics/ultralytics
+<pre>
+YOLO DeepSORT object tracking is a combination of two state-of-the-art algorithms: YOLO (You Only Look Once) object detection and DeepSORT object tracking. 
+To run git clone above repo.
+Place predict.py inside yolo/v8/dedect 
+Run script command. 
+</pre>
+
+
